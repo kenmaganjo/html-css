@@ -4,16 +4,22 @@ p {
     font-style: italic;
 }
 body {
+   
     padding: 25px 50px 75px 50px;
     background-color: antiquewhite;
     border-style: solid;
-    border-width: 5px;
+    border-width: 4px; 
+    background-image: url('../images/HTML-CSS-Projects.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    
+   
   
       
 }
-.background{
-    background-image: url("C:\Users\HP\Desktop\my website\images\ken.jpg");
-}
+
 .img-container {
     margin: auto;
     width: 10%;
