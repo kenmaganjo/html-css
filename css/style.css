@@ -1,0 +1,45 @@
+p {
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+body {
+    padding: 25px 50px 75px 50px;
+    background-color: antiquewhite;
+    border-style: solid;
+    border-width: 5px;
+  
+      
+}
+.background{
+    background-image: url("C:\Users\HP\Desktop\my website\images\ken.jpg");
+}
+.img-container {
+    margin: auto;
+    width: 10%;
+}
+.name{
+    margin: auto;
+    width: 10%;
+
+}
+.Contact-me{
+    margin: auto;
+    width: 10%;
+
+}
+.centered-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.links{
+    margin: auto;
+    width: 20%;
+
+}
+
+  
