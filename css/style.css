@@ -1,0 +1,86 @@
+
+body {
+   background-image: url(../images/km\ img.webp);
+   background-color:rgb(163, 144, 179);
+   border-style: solid;
+   border-width: 120px;
+   border-top: 0px ;
+  border-bottom: none;
+   border-color: black; 
+   margin: 0;
+   padding: 0;
+   padding-bottom: 230px;
+  /* background-size: cover;*/
+   background-repeat: no-repeat;
+   background-size: cover;
+    background-blend-mode: overlay;
+   
+}
+.navbar{
+    background-color:black;
+    /*border-color:black;*/
+   
+    width: 100%;
+   
+    box-sizing: border-box;
+    /*padding-right: 50px;*/
+    text-align:justify;
+    padding: 1px;
+    margin-right: 10px;
+}
+
+li {
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+}
+
+  li a {
+    
+    padding: 5px;
+   color: white;
+   text-decoration: none;
+  }
+
+
+p {
+       margin: auto;
+        text-align: center;
+        color:whitesmoke;
+    }
+  
+  .paragraph-center1{
+    margin: auto;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 31px;
+    color: whitesmoke;
+
+  }
+.button1{
+  margin: auto;
+   width: 30%;
+   position: absolute;
+  top: 440px;
+  left: 550px;
+  
+  }
+  .button-more{
+    margin: auto;
+    width: 30%;
+    position: absolute;
+   top: 440px;
+   left: 680px;
+   font-size: 16px;
+  
+}
+.gallery{
+    margin-left: 80px;
+    display: flex;
+      align-items: center;
+      color: whitesmoke;
+      font-size: 20px;
+      font-weight: bold;
+      
+}
+
